@@ -1,0 +1,26 @@
+.navbar {background-color: #a5a58d;}
+.navbar-expand-lg {height: 100%; width: 100%}
+header {background-color: #FFF1E6; 
+    text-align:left;}
+.shelf2 {background-color: #B7B7A4;}
+.shelf3{}
+.shelf4{}
+
+
+#hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/working-woman.jpg');
+    background-size: cover;  /* This respects the aspect ratio */
+    min-height: 30em;
+}
+
+#hero-content-col {
+    margin-top: 7em;
+}
+
+.white-text {
+    color: white;
+}
+
+#where-we-are-section {
+    background-color: #aaa9ae;
+}
