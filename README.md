@@ -38,11 +38,12 @@ To ensure the site contains valid HTML, the code was checked directly using vali
 CSS for the site has also been checked via https://jigsaw.w3.org/css-validator/validator and no errors returned.
 <br>
 <br>
-The site has also been checked using Google Lighthouse, summary can be viewed <a href="https://github.com/mccannka/fulltemplate/blob/master/google-lighthouse.png">here</a>.  Chrome Developer tools has also been used to test via a range of devices i.e. Iphone, macbook and Ipad.
+The site has also been checked using Google Lighthouse, summary can be viewed <a href="https://github.com/mccannka/fulltemplate/blob/master/google-lighthouse.png">here</a>, final output following suggested amends can be viewed <a href="https://github.com/mccannka/mccann-design/blob/master/google-lighthouse-final.png">here</a>.  Chrome Developer tools has also been used to test via a range of devices i.e. Iphone, macbook and Ipad.
 
 # Deployment #
 
-The website has been deployed using Github.
+The website has been deployed using Github and can be accessed via https://github.com/mccannka/mccann-design.
+
 # Credits #
 
 * Content - Boostrap card and container components were used and modified with the relevant styling.
