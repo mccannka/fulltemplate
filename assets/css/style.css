@@ -1,21 +1,27 @@
 header {background-color: #F0EFEB;
 text-align: center;}
 
+
+/* This component has been taken from bootstrap and styled accordingly */
+
 .navbar {max-width: 100%;}
 
 #hero-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(/assets/images/coffee-shop.jpg);
     background-size: cover;  /* This respects the aspect ratio */
-    min-height: 20em;
+    min-height: 15em;
 }
 
 .section {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
+/* This component has been taken from bootstrap */
 #business-solutions-section {
     background-color: #F0EFEB;
     margin-top: 0em;
     margin-bottom: 0em;}
 
+
+/* This component has been taken from bootstrap with styling applied */
 .btn-primary {background-color: #A5A58D;
 border: #F0EFEB;
 font: Tahoma;
@@ -30,6 +36,7 @@ font-size: medium;}
     color: white;
 }
 
+/* Form html fields have been taken from bootstrap */
 #where-we-section {
     margin-top: 0em;
     margin-bottom: 0em;
@@ -39,10 +46,19 @@ font-size: medium;}
 }
 
 #pricing {
-    margin-top: 0em;
-    margin-bottom: 0em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     margin-left: 0em;
     margin-right: 0em;
-    background-color: #cb997e;
+    background-color: white;
     text-align: center;
+}
+
+#page-end {
+    align-content: center;
+    margin-top: 1em;
+    margin-bottom: 3em;
+    margin-left: 0em;
+    margin-right: 0em;
+    background-color: #a5a58d;
 }
