@@ -9,40 +9,40 @@ text-align: center;}
     min-height: 20em;
 }
 
+.section {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
 #business-solutions-section {
     background-color: #F0EFEB;
     margin-top: 0em;
     margin-bottom: 0em;}
 
-.col {color: #A5A58D;}
-
 .btn-primary {background-color: #A5A58D;
 border: #F0EFEB;
 font: Tahoma;
-font-size: x-large;}
+font-size: medium;}
 
 #hero-content-col {
     margin-top: 6em;
     margin-bottom: 2em;
 }
 
-
 .white-text {
     color: white;
 }
 
 #where-we-section {
-    background-color: #aaa9ae;
     margin-top: 0em;
     margin-bottom: 0em;
     margin-left: 0em;
     margin-right: 0em;
-    background-color: #A5A58D;
+    background-color: #f0efeb;
 }
 
-
-#footer-details {background-color: #EDDCD2;
-color: white;
-margin-top: 0em;
-margin-bottom: 0em;
+#pricing {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+    background-color: #cb997e;
+    text-align: center;
 }
