@@ -42,7 +42,7 @@ The site has also been checked using Google Lighthouse, summary can be viewed <a
 
 # Deployment #
 
-The website has been deployed using Github 
+The website has been deployed using Github.
 # Credits #
 
 * Content - Boostrap card and container components were used and modified with the relevant styling.
