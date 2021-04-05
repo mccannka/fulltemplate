@@ -1,26 +1,48 @@
-.navbar {background-color: #a5a58d;}
-.navbar-expand-lg {height: 100%; width: 100%}
-header {background-color: #FFF1E6; 
-    text-align:left;}
-.shelf2 {background-color: #B7B7A4;}
-.shelf3{}
-.shelf4{}
+header {background-color: #F0EFEB;
+text-align: center;}
 
+.navbar {max-width: 100%;}
 
 #hero-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/working-woman.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(/assets/images/coffee-shop.jpg);
     background-size: cover;  /* This respects the aspect ratio */
-    min-height: 30em;
+    min-height: 20em;
 }
 
+#business-solutions-section {
+    background-color: #F0EFEB;
+    margin-top: 0em;
+    margin-bottom: 0em;}
+
+.col {color: #A5A58D;}
+
+.btn-primary {background-color: #A5A58D;
+border: #F0EFEB;
+font: Tahoma;
+font-size: x-large;}
+
 #hero-content-col {
-    margin-top: 7em;
+    margin-top: 6em;
+    margin-bottom: 2em;
 }
+
 
 .white-text {
     color: white;
 }
 
-#where-we-are-section {
+#where-we-section {
     background-color: #aaa9ae;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+    background-color: #A5A58D;
+}
+
+
+#footer-details {background-color: #EDDCD2;
+color: white;
+margin-top: 0em;
+margin-bottom: 0em;
 }
