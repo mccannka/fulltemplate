@@ -7,8 +7,8 @@ text-align: center;}
 
 #hero-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(/assets/images/coffee-shop.jpg);
-    background-size: cover;  /* This respects the aspect ratio */
-    min-height: 35em;
+    background-size: cover;
+    min-height: 25em;
 }
 
 .section {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
