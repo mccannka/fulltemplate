@@ -24,9 +24,7 @@ text-align: center;}
 .btn-beige {background-color: #FF8360;
     border: #F0EFEB;
     color: white;
-    margin-bottom: 5em;}
-
-.btn lg {padding: .5rem}
+    margin-bottom; 2em}
 
 /* This component has been taken from bootstrap with styling applied */
 .btn-primary {background-color: #a5a58d;
