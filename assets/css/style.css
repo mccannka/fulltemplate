@@ -8,23 +8,30 @@ text-align: center;}
 #hero-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(/assets/images/coffee-shop.jpg);
     background-size: cover;  /* This respects the aspect ratio */
-    min-height: 15em;
+    min-height: 35em;
 }
 
 .section {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
 /* This component has been taken from bootstrap */
 #business-solutions-section {
-    background-color: #F0EFEB;
+    background-color: white;
     margin-top: 0em;
     margin-bottom: 0em;}
 
 
 /* This component has been taken from bootstrap with styling applied */
-.btn-primary {background-color: #A5A58D;
-border: #F0EFEB;
-font: Tahoma;
-font-size: medium;}
+.btn-beige {background-color: #FF8360;
+    border: #F0EFEB;
+    color: white;
+    margin-bottom: 5em;}
+
+.btn lg {padding: .5rem}
+
+/* This component has been taken from bootstrap with styling applied */
+.btn-primary {background-color: #a5a58d;
+    border: #F0EFEB;
+    color: white;}
 
 #hero-content-col {
     margin-top: 6em;
@@ -34,6 +41,10 @@ font-size: medium;}
 .white-text {
     color: white;
 }
+
+/* header color */
+.orange-color {
+    color: #FF8360;}
 
 /* Form html fields have been taken from bootstrap */
 #where-we-section {
@@ -45,19 +56,32 @@ font-size: medium;}
 }
 
 #pricing {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 5em;
+    margin-bottom: 5em;
     margin-left: 0em;
     margin-right: 0em;
     background-color: white;
     text-align: center;
 }
 
-#page-end {
-    align-content: center;
-    margin-top: 1em;
-    margin-bottom: 3em;
-    margin-left: 0em;
-    margin-right: 0em;
-    background-color: #a5a58d;
+.img-thumbnail {
+    border-radius: 4px;
+    width: 350px;
+}
+
+/* styling for bootstrap footer */
+#final {
+  background-color: #a5a58d;
+}
+
+
+/* styling for social media icons */
+.fa-linkedin {color: white;}
+.fa-twitter {color: white;}
+.fa-facebook {color: white;}
+
+/* map */
+.map-style {
+    width: 150%;
+    height: 150%;
 }
