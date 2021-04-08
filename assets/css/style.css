@@ -6,7 +6,7 @@ text-align: center;}
 .navbar {max-width: 100%;}
 
 #hero-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(/assets/images/coffee-shop.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url("../images/coffee-shop.jpg");
     background-size: cover;
     min-height: 25em;
 }
